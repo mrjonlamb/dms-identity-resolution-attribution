@@ -6,7 +6,7 @@ An identity resolution and closed-loop attribution algorithm for automotive reta
 ## 🏎️ The Problem in Automotive Retail
 Modern automotive digital publishers and aggregators (e.g., CarGurus, Autotrader, Cars.com) struggle to definitively prove their Return on Ad Spend (ROAS). Typical digital attribution relies heavily on third-party cookies or form-fills (leads). However, **over 80% of dealership walk-ins buy a car without ever submitting a digital lead form.** Because of this "blind spot," publishers cannot accurately claim credit for the offline vehicle sales they drove, and dealers struggle to know which digital marketing channels actually generate gross profit.
 
-## 💡 The Patented Solution
+## 💡 The Solution
 This repository contains the core programmatic logic for a privacy-first, closed-loop attribution algorithm. 
 
 Instead of relying on fragile digital tracking links or intrusive PII (Personally Identifiable Information) sharing, this system utilizes a **household-level identity resolution methodology** that safely connects offline dealership sales directly to digital publisher footprints.
