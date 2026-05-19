@@ -3,14 +3,6 @@ An identity resolution and closed-loop attribution algorithm for automotive reta
 
 # Closed-Loop Automotive Attribution via De-Identified DMS & Edge IP Resolution
 
-## 📌 Patent Information
-* **Patent Title:** System and Method for Closed-Loop Automotive Digital Marketing Attribution Utilizing Residential Identity Resolution
-* **Patent / Application Number:** [Insert Number, e.g., US 12,345,678 B2]
-* **Inventor:** [Your Name / Company Name]
-* **Status:** [Published / Pending / Granted]
-
----
-
 ## 🏎️ The Problem in Automotive Retail
 Modern automotive digital publishers and aggregators (e.g., CarGurus, Autotrader, Cars.com) struggle to definitively prove their Return on Ad Spend (ROAS). Typical digital attribution relies heavily on third-party cookies or form-fills (leads). However, **over 80% of dealership walk-ins buy a car without ever submitting a digital lead form.** Because of this "blind spot," publishers cannot accurately claim credit for the offline vehicle sales they drove, and dealers struggle to know which digital marketing channels actually generate gross profit.
 
