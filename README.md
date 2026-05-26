@@ -1,6 +1,9 @@
 # dms-identity-resolution-attribution
 An identity resolution and closed-loop attribution algorithm for automotive retail. Programmatically bridges de-identified DMS sales data with digital publisher IP logs using household matching and immutable VIN verification to solve the walk-in attribution blind spot safely and securely.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fe5d1f75-26bd-4a43-bd6f-7e999bf5130f" />
+
+
 # Closed-Loop Automotive Attribution via De-Identified DMS & Edge IP Resolution
 
 ## 🏎️ The Problem in Automotive Retail
